@@ -1,25 +1,13 @@
 ## Hi folks, Welcome to my diary 👋
 
 ### My name is Hakim Amal Adni, you can call me Kim
-Currently I've employed by Kazokku, working on Takaful Syariah Insurance Project
+Currently I've employed by Kazokku, working on Takaful Syariah Insurance Project  
 While exploring new Stacks to keep my head keen, lol
 
-Nice to see you, let's get connected
-Find me on
-LinkedIn : Hakim Amal Adni
-Instagram : @hakeemu_
+Nice to see you, let's get connected  
+Find me on  
+**LinkedIn**: Hakim Amal Adni  
+**Instagram**: @hakeemu_
 
-<figure><embed src="https://wakatime.com/share/@a4a694a7-b239-459f-a48b-ef6e9bf31949/9e6e91af-6dad-4c4a-bdb6-62f26cf68b56.svg"></embed></figure><!--
-**hakimadni/hakimadni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Last 7 Days stats  
+<img src="https://wakatime.com/share/@a4a694a7-b239-459f-a48b-ef6e9bf31949/052a9032-f098-4536-a91d-c560c3ec9863.png" width="400"/>
